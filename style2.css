@@ -2,7 +2,9 @@ body {
     background-color: rgb(10, 162, 250);
     max-height: fit-content;
 }
-
+main {
+    max-height: fit-content;
+}
 header {
     padding-top: 80px;
  } 
