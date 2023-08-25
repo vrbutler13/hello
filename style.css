@@ -98,6 +98,7 @@ footer{
 .buttons {
     display: flex;
     flex-direction: row;
+    text-align: center;
 }
 /* need to figure out how to align the two buttons*/
 a:hover{ 
