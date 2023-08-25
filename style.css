@@ -16,13 +16,11 @@ h1 {
 .img1 {
     border-radius: 50%;
     padding-top: 20px;
-    padding-bottom: 20px;
     place-items: top left;
 }
 .img2 {
     border-radius: 50%;
     padding-top: 20px;
-    padding-bottom: 20px; 
     place-items: top right;
 }
 
