@@ -94,11 +94,14 @@ li {
 }
 
 footer{
-    place-items: bottom;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin-top: 40px;
     padding-top: 30px;
-    padding-bottom: 30px;
-    background-color: aliceblue;
+    padding-bottom: 30px;  
 }
 
 /* need to figure out how to align the two buttons*/
