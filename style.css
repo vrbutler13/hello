@@ -88,6 +88,7 @@ li {
     margin-left: 30px;
     margin-right: 20px; 
 }
+/*
 footer{
     position: absolute;
     bottom: 0;
@@ -102,9 +103,10 @@ footer{
     align-items: center;
     justify-content: center;
 }
-/* need to figure out how to align the two buttons*/
+/need to figure out how to align the two buttons to split center/
 a:hover{ 
     color: blue;
     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     font-size: 20px;
 }
+*/
