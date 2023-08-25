@@ -46,6 +46,8 @@ hr{
 .circleContainer {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .olContainer {
