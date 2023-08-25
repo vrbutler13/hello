@@ -94,11 +94,13 @@ footer{
     left: 0;
     right: 0; 
     background-color: aliceblue;
+    
 }
 .buttons {
     display: flex;
     flex-direction: row;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 /* need to figure out how to align the two buttons*/
 a:hover{ 
