@@ -88,18 +88,16 @@ li {
     margin-left: 30px;
     margin-right: 20px; 
 }
-
-.buttons {
-    display: flex;
-    flex-direction: row;
-}
-
 footer{
     background-color: aliceblue;
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0; 
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
 }
 /* need to figure out how to align the two buttons*/
 a:hover{ 
