@@ -44,6 +44,7 @@ hr{
 }
 
 .circleContainer {
+    display: flex;
     flex-direction: row;
 }
 
@@ -90,6 +91,7 @@ li {
 }
 
 .buttons {
+    display: flex;
     flex-direction: row;
 }
 
