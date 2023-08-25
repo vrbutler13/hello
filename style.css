@@ -99,10 +99,7 @@ footer{
     position: absolute;
     bottom: 0;
     left: 0;
-    right: 0;
-    margin-top: 40px;
-    padding-top: 30px;
-    padding-bottom: 30px;  
+    right: 0; 
 }
 /* need to figure out how to align the two buttons*/
 a:hover{ 
