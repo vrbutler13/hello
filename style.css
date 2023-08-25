@@ -97,10 +97,8 @@ footer{
     align-items: center;
     justify-content: center;
 }
-/need to figure out how to align the two buttons to split center/
 a:hover{ 
     color: blue;
     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     font-size: 20px;
 }
-*/
