@@ -5,25 +5,26 @@ body {
 main {
     max-height: fit-content;
 }
-
+/*hello world*/
 h1 {
     color:rgb(248, 247, 246);
     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     font-size: 40px;
     text-align:center;
 }
-
+/*face*/
 .img1 {
     border-radius: 50%;
     padding-top: 20px;
     place-items: top left;
 }
+/*sky*/
 .img2 {
     border-radius: 50%;
     padding-top: 20px;
     place-items: top right;
 }
-
+/*name and location*/
 .textContainer {
     place-content: bottom;
 }
@@ -37,14 +38,13 @@ hr{
     list-style-position: inside;
     width: 300px;
 }
-
+/*intro info*/
 .circleContainer {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
 }
-
 .olContainer {
    background-color: rgb(45, 64, 128);
    height: 300px;
@@ -52,7 +52,6 @@ hr{
    border-radius: 50%;
    float:left;
 }
-
 .ulContainer {
    background-color: rgb(4, 217, 245);
    height: 300px;
@@ -60,14 +59,12 @@ hr{
    border-radius: 50%;
    float:right;
 }
-
 h3{
     color:rgb(248, 247, 246);
     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     font-size: 18px;
     text-align:center;
 }
-
 p {
     padding-top: 100px;
     color:rgb(248, 247, 246);
@@ -77,7 +74,6 @@ p {
     margin-left: 20px;
     margin-right: 20px;
 }
-
 li {
     color:rgb(248, 247, 246);
     font-family:'Arial Narrow Bold', sans-serif;;
@@ -86,7 +82,7 @@ li {
     margin-left: 30px;
     margin-right: 20px; 
 }
-/*
+/* footer*/
 footer{
     position: absolute;
     bottom: 0;
