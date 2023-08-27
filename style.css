@@ -12,6 +12,12 @@ h1 {
     font-size: 40px;
     text-align:center;
 }
+.imgContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
 /*face*/
 .img1 {
     border-radius: 50%;
